@@ -1,0 +1,110 @@
+[
+    {
+        "category": "Mobile Phones",
+        "items": [
+            {
+                "name": "Apple",
+                "price": 1340.50,
+                "id": "m1",
+                "src": "https://m.media-amazon.com/images/I/61F7c4q8TNL._AC_UY218_.jpg",
+                "desc": "Apple iPhone 13 Mini (128GB, Pink) [Locked] + Carrier Subscription"
+            },
+            {
+                "name": "Samsung",
+                "price": 799.00,
+                "id": "m2",
+                "src": "https://m.media-amazon.com/images/I/61V49wCBDtL._AC_UY218_.jpg",
+                "desc": "SAMSUNG Galaxy S22+ Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video"
+            },
+            {
+                "name": "Samsung",
+                "price": 1719.00,
+                "id": "m3",
+                "src": "https://m.media-amazon.com/images/I/71Zzyu-Ol4L._AC_UY218_.jpg",
+                "desc": "SAMSUNG Galaxy Z Fold 4 Cell Phone, Factory Unlocked Android Smartphone, 512GB, Flex Mode"
+            },
+            {
+                "name": "Alcatel",
+                "price": 50.5,
+                "id": "m4",
+                "src": "https://m.media-amazon.com/images/I/61-fB+GkifL._AC_UY218_.jpg",
+                "desc": "Net10 Alcatel TCL A3, 32GB, Black - Prepaid Smartphone (Locked)"
+            },
+            {
+                "name": "Nokia",
+                "price": 44.19,
+                "id": "m5",
+                "src": "https://m.media-amazon.com/images/I/61Sn0+xiRiL._AC_UY218_.jpg",
+                "desc": "Nokia 225 | GSM Unlocked Mobile Phone | 4G | Black"
+            },
+            {
+                "name": "Google",
+                "price": 649.00,
+                "id": "m6",
+                "src": "https://m.media-amazon.com/images/I/71ee+5V4ZRL._AC_SY300_SX300_.jpg",
+                "desc": "Google Pixel 6 Pro - 5G Android Phone - Unlocked"
+            },
+            {
+                "name": "Samsung",
+                "price": 829.57,
+                "id": "m7",
+                "src": "https://m.media-amazon.com/images/I/51DhX1XpliL._AC_SX425_.jpg",
+                "desc": "SAMSUNG Galaxy Z Flip 3 5G Cell Phone, Factory Unlocked Android Smartphone"
+            },
+            {
+                "name": "Xiaomi",
+                "price": 93.7,
+                "id": "m8",
+                "src": "https://m.media-amazon.com/images/I/81oPj2JzHDL._AC_UY218_.jpg",
+                "desc": "Xiaomi Redmi 9A - Smartphone 2 GB + 32 GB, Dual Sim, Grigio (Granite Grey)"
+            }
+        ]
+    },
+    {
+        "category": "Laptops",
+        "items": [
+            {
+                "name": "Apple",
+                "price": 1000.50,
+                "id": "l1",
+                "src": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
+                "desc": "2022 Apple MacBook Air Laptop with M2 chip: 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD"
+            },
+            {
+                "name": "Apple",
+                "price": 1179.00,
+                "id": "l2",
+                "src": "https://m.media-amazon.com/images/I/61L5QgPvgqL._AC_UL320_.jpg",
+                "desc": "2022 Apple MacBook Pro Laptop with M2 chip: 13-inch Retina Display, 8GB RAM, 256GB ​​​​​​​SSD ​​​​​​​Storage, Touch"
+            },
+            {
+                "name": "ASUS",
+                "price": 329.00,
+                "id": "l3",
+                "src": "https://m.media-amazon.com/images/I/81uR+Tf0ahL._AC_SY355_.jpg",
+                "desc": "ASUS Chromebook C425 Clamshell Laptop, 14 FHD 4-Way NanoEdge Touch Screen, Intel Core m3-8100Y Processor, 4GB RAM, 128GB"
+            },
+            {
+                "name": "Lennova",
+                "price": 579.00,
+                "id": "l4",
+                "src": "https://m.media-amazon.com/images/I/61QGMX0Qy6L._AC_UY218_.jpg",
+                "desc": "Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor,"
+            },
+            {
+                "name": "HP",
+                "price": 206.41,
+                "id": "l5",
+                "src": "https://m.media-amazon.com/images/I/61Y6qYNGslL._AC_UY218_.jpg",
+                "desc": "HP Stream 11 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 11.6” HD Anti-Glare Display"
+            },
+            {
+                "name": "Samsung",
+                "price": 1249.00,
+                "id": "l6",
+                "src": "https://m.media-amazon.com/images/I/61M-QNJf4pL._AC_UY218_.jpg",
+                "desc": "SAMSUNG 13.3” Galaxy Book2 Pro Laptop Computer, i7 / 8GB / 512GB, 12th Gen Intel Core Processor"
+            }
+        ]
+    }
+]

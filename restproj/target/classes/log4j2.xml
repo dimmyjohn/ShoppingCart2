@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+	<Appenders>
+		<file name="FileAppender" filename="/Users/dimmynirmal/Downloads/xmlfilelog.log">
+            <patternlayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n">
+            </patternlayout>
+        </file>
+	</Appenders>
+	<Loggers>
+		<Root level="debug">
+			<AppenderRef ref="ConsoleAppender" />
+			<AppenderRef ref="FileAppender" />
+		</Root>
+	</Loggers>
+</Configuration>
